@@ -1,5 +1,6 @@
 Installation
 >Clone the repository
+https://github.com/RajaZainUlAbadin/pair-data/edit/pair-data-fetch-patch-1
 
 >Switch to the repo folder
 cd pair-data
